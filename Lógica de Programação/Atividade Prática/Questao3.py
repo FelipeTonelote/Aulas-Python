@@ -79,11 +79,11 @@ def cachorro_extra():
 #Fim da função cachorro_extra()
 
 #Inicio da Main
-print('-' * 15, 'Bem-vindo ao PetShop de Felipe Beluci Tonelote', '-' * 15)
+print('-' * 15, 'Bem-vindo ao PetShop de Felipe Tonelote', '-' * 15)
 
 base = cachorro_peso()
 multiplicador = cachorro_pelo()
-extra =cachorro_extra()
+extra = cachorro_extra()
 
 total = base * multiplicador + extra #calculo do valor total do cliente
 

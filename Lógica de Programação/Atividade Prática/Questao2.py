@@ -1,4 +1,4 @@
-print('Bem-vindo a sorveteria de Felipe Beluci Tonelote')
+print('Bem-vindo a sorveteria de Felipe Tonelote')
 
 # Visual do Cardápio
 print('-' * 37 + 'Cardápio' + '-' * 37)

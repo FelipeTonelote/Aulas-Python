@@ -1,5 +1,5 @@
 #exibindo a tela de boas-vindas
-print('Bem-vindo a Loja do Felipe Beluci Tonelote')
+print('Bem-vindo a Loja do Felipe Tonelote')
 #declaração das variáveis
 valor_produto = float(input('Digite o valor do produto: '))
 qtd_produto = int(input('Digite a quantidade do produto: '))
